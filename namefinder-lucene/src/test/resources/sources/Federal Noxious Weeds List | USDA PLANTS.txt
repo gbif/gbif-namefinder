@@ -1,0 +1,237 @@
+
+	 
+
+
+
+ 	
+
+	
+ Name Search
+name search type enter a search name    
+    
+	State Search
+	Advanced Search
+	Search Help
+
+ 
+	Alternative Crops
+	Characteristics
+	Classification
+	Culturally Significant
+	Distribution Update
+	Fact Sheets & Plant Guides
+	Invasive and Noxious Weeds
+	Links
+	Plant Materials Publications
+	Threatened & Endangered
+	Wetland Indicator Status
+ 
+
+ 
+	40,000+ Plant Images
+	Submit Your Digital Images
+ 
+
+ 
+	Complete PLANTS Checklist
+	State PLANTS Checklist
+	Advanced Search Download
+	Symbols for Unknown Plants
+	NRCS State GSAT Lists
+	NRCS State Plants Lists
+	PLANTS Posters
+ 
+
+ 
+	Crop Nutrient Tool
+	Ecological Site Information System
+	Plant Materials Web Site
+	Other NRCS Tech
+Resources
+	VegSpec
+ 
+
+
+ 	
+You are here: Home / Invasive and Noxious Weeds / Invasive and Noxious Weeds Results	 Printer-Friendly / Download
+ 
+Invasive and Noxious Weeds
+NRCS Invasive Species Policy 
+Invasive Species Executive Order 13112
+
+Federal Noxious Weeds
+104 records returned
+
+Click on an accepted name below to view its PLANTS Profile with more information, and web links if available. Noxious weeds that are synonyms retain their noxious status, and are indented beneath the current PLANTS accepted name.
+
+Plant Protection and Quarantine. 2006. Federal noxious weed list (24 May 2006). USDA Animal and Plant Health Inspection Service.
+
+USDA APHIS Plant Protection and Quarantine. 2005. Federal domestic quarantines (24 May 2006). USDA APHIS Plant Protection and Quarantine.
+
+Symbol	Scientific Name	Noxious Common Name	Federal Weed Status†	Native Status*
+AEGIN	 Aeginetia L.		NW	
+AGAD2	 Ageratina adenophora (Spreng.) King & H. Rob.	crofton weed	NW	L48 (I), HI (I)
+ALECT2	 Alectra Thunb.		NW	
+ALSE4	 Alternanthera sessilis (L.) R. Br. ex DC.	sessile joyweed	NW	L48 (I), HI (I), PR (N), VI (N)
+ASFI2	 Asphodelus fistulosus L.	onionweed	NW	L48 (I)
+AVST	 Avena sterilis L.	animated oat	NW	L48 (I), CAN (W)
+AZPI	 Azolla pinnata R. Br.	mosquito fern	NW	L48 (I)
+CAOX6	 Carthamus oxyacanthus M. Bieb.			L48 (I)
+CAOX2	Carthamus oxyacantha M. Bieb., orth. var.	wild safflower	NW	
+CATA5	 Caulerpa taxifolia (Vahl) C. Agardh1		NW	L48 (I)
+CHAC	 Chrysopogon aciculatus (Retz.) Trin.	pilipiliula	NW	HI (I)
+COBE2	 Commelina benghalensis L.	Benghal dayflower	NW	L48 (I), HI (I), PR (I)
+CRVU2	 Crupina vulgaris Cass.	common crupina	NW	L48 (I)
+CUSCU	 Cuscuta L.2	dodder	NW	
+DIAB	 Digitaria abyssinica (Hochst. ex A. Rich.) Stapf			HI (I)
+DISC5	Digitaria scalarum (Schweinf.) Chiov.	African couch grass	NW	
+DIVE2	 Digitaria velutina (Forssk.) P. Beauv.	velvet fingergrass	NW	L48 (I)
+DRAR7	 Drymaria arenarioides Humb. & Bonpl. ex Schult. [excluded]	alfombrilla	NW	
+EIAZ2	 Eichhornia azurea (Sw.) Kunth	anchored waterhyacinth	NW	L48 (I), PR (I)
+EMAU	 Emex australis Steinh.	three-cornered jack	NW	L48 (I)
+EMSP	 Emex spinosa (L.) Campd.	devil's thorn	NW	L48 (I), HI (I)
+GAOF	 Galega officinalis L.	goatsrue	NW	L48 (I), CAN (I)
+HEMA17	 Heracleum mantegazzianum Sommier & Levier	giant hogweed	NW	L48 (I), CAN (I)
+HOMER	 Homeria Vent.	Cape tulip	NW	
+HYVE3	 Hydrilla verticillata (L. f.) Royle	hydrilla	NW	L48 (I)
+HYPO3	 Hygrophila polysperma (Roxb.) T. Anderson	Miramar weed	NW	L48 (I)
+IMBR	 Imperata brasiliensis Trin.	Brazilian satintail	NW	L48 (I), PR (I)
+IMCY	 Imperata cylindrica (L.) P. Beauv.	cogongrass	NW	L48 (I)
+IPAQ	 Ipomoea aquatica Forssk.	Chinese waterspinach	NW	L48 (I), HI (I), PR (I)
+ISRU	 Ischaemum rugosum Salisb.	murain-grass	NW	L48 (I)
+LAMA15	 Lagarosiphon major (Ridley) Moss	oxygen weed	NW	
+LECH2	 Leptochloa chinensis (L.) Nees [excluded]	Asian sprangletop	NW	
+LISE3	 Limnophila sessiliflora (Vahl) Blume	ambulia	NW	L48 (I)
+LYFE4	 Lycium ferocissimum Miers			L48 (I)
+LYFE3	Lycium ferrocissimum Miers, orth. var.	African boxthorn	NW	
+MEQU	 Melaleuca quinquenervia (Cav.) S.F. Blake	melaleuca	NW	L48 (I), HI (I), PR (I)
+MEMA	 Melastoma malabathricum L.		NW	HI (I)
+MICO16	 Mikania cordata (Burm. f.) B.L. Rob. [excluded]	mile-a-minute	NW	
+MIMI5	 Mikania micrantha Kunth	mile-a-minute	NW	L48 (I), PR (N)
+MIDI8	 Mimosa diplotricha C. Wright			HI (I), PR (I)
+MIIN80	Mimosa invisa Mart., non Mart. ex Colla	giant sensitive plant	NW	
+MIPE2	 Mimosa pellita Kunth ex Willd.			L48 (N), PR (N)
+MIPI	Mimosa pigra auct. non L.	catclaw mimosa	NW	
+MOHA2	 Monochoria hastata (L.) Solms [excluded]	monochoria	NW	
+MOVA	 Monochoria vaginalis (Burm. f.) C. Presl ex Kunth	pickerel weed	NW	L48 (I), HI (I)
+NATR3	 Nassella trichotoma (Nees) Hack.	serrated tussock	NW	L48 (I)
+OPAU10	 Opuntia aurantiaca Lindl.	jointed prickly pear	NW	
+OROBA	 Orobanche L.2	broomrape	NW	
+ORLO3	 Oryza longistaminata A. Chev. & Roehr.	red rice	NW	
+ORPU13	 Oryza punctata Kotzchy ex Steud.	red rice	NW	
+ORRU	 Oryza rufipogon Griffiths	red rice	NW	L48 (I)
+OTAL	 Ottelia alismoides (L.) Pers.	duck-lettuce	NW	L48 (I)
+PASC6	 Paspalum scrobiculatum L.	Kodo-millet	NW	L48 (I), HI (I)
+PECL2	 Pennisetum clandestinum Hochst. ex Chiov.	kikuyugrass	NW	L48 (I), HI (I), PR (I), VI (I)
+PEMA80	 Pennisetum macrourum Trin.	African feathergrass	NW	L48 (I), HI (I)
+PEPE24	 Pennisetum pedicellatum Trin.	kyasuma-grass	NW	L48 (I)
+PEPO14	 Pennisetum polystachion (L.) Schult.			L48 (I), HI (I), PR (I)
+PEPO4	Pennisetum polystachyon (L.) Schult., orth. var.	missiongrass	NW	
+PRAL11	 Prosopis alpataco Phil.	mesquite	NW	
+PRAR6	 Prosopis argentina Burkart	mesquite	NW	
+PRBU2	 Prosopis burkartii Muñoz	mesquite	NW	
+PRCA9	 Prosopis caldenia Burkart	mesquite	NW	
+PRCA10	 Prosopis calingastana Burkart	mesquite	NW	
+PRCA11	 Prosopis campestris Griseb.	mesquite	NW	
+PRCA12	 Prosopis castellanosii Burkart	mesquite	NW	
+PRDE4	 Prosopis denudans Benth.	mesquite	NW	
+PREL5	 Prosopis elata (Burkart) Burkart	mesquite	NW	
+PRFA2	 Prosopis farcta (Banks & Sol.) J.F. Macbr.	Syrian mesquite	NW	L48 (I)
+PRFE2	 Prosopis ferox Griseb.	mesquite	NW	
+PRFI4	 Prosopis fiebrigii Harms	mesquite	NW	
+PRHA4	 Prosopis hassleri Harms ex Hassler	mesquite	NW	
+PRHU3	 Prosopis humilis Gillies ex Hook. & Arn.	mesquite	NW	
+PRKU2	 Prosopis kuntzei Harms ex Hassler	mesquite	NW	
+PRPA4	 Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth	kiawe	NW	HI (I), PR (I), VI (I)
+PRPA10	 Prosopis palmeri S. Watson	mesquite	NW	
+PRRE2	 Prosopis reptans Benth.	tornillo	NW	L48 (N)
+PRRO4	 Prosopis rojasiana Burkart	mesquite	NW	
+PRRU4	 Prosopis ruizlealii Burkart	mesquite	NW	
+PRRU5	 Prosopis ruscifolia Griseb.	mesquite	NW	
+PRSE5	 Prosopis sericantha Gillies ex Hook. & Arn.	mesquite	NW	
+PRST3	 Prosopis strombulifera (Lam.) Benth.	Argentine screwbean	NW	L48 (I)
+PRTO3	 Prosopis torquata DC.	mesquite	NW	
+PRVE	 Prosopis velutina Woot.			L48 (N), HI (I)
+PRAR4	Prosopis articulata S. Watson	velvet mesquite	NW	
+ROCO6	 Rottboellia cochinchinensis (Lour.) W.D. Clayton	itchgrass	NW	L48 (I), PR (I)
+RUFR80	 Rubus fruticosus L. [excluded]	wild blackberry complex	NW	
+RUMO4	 Rubus moluccanus L. [excluded]	wild blackberry	NW	
+SASP	 Saccharum spontaneum L.	wild sugarcane	NW	HI (I), PR (I)
+SASA7	 Sagittaria sagittifolia L. [excluded]	arrowhead	NW	
+SAVE6	 Salsola vermiculata L.	wormleaf salsola	NW	L48 (I)
+SAAU	 Salvinia auriculata Aubl.	giant salvinia	NW	PR (I)
+SABI9	 Salvinia biloba Raddi	giant salvinia	NW	
+SAHE7	 Salvinia herzogii de la Sota	giant salvinia	NW	
+SAMO5	 Salvinia molesta Mitchell	giant salvinia	NW	L48 (I), HI (I)
+SEPUP3	 Setaria pumila (Poir.) Roem. & Schult. ssp. pallidefusca (Schumach.) B.K. Simon			L48 (I)
+SEPA82	Setaria pallidifusca (Schumach.) Stapf & C.E. Hubbard, orth. var.	cattail grass	NW	
+SOTA3	 Solanum tampicense Dunal	wetland nightshade	NW	L48 (I)
+SOTO4	 Solanum torvum Sw.	turkeyberry	NW	L48 (I), HI (I), PR (I), VI (I)
+SOVI2	 Solanum viarum Dunal	tropical soda apple	NW	L48 (I)
+SPER	 Sparganium erectum L.	exotic bur-reed	NW	L48 (N)
+SPAL3	 Spermacoce alata Aubl. [excluded]	borreria	NW	
+STRIG	 Striga Lour.	witchweed	NW, Q	
+TRPR5	 Tridax procumbens L.	coat buttons	NW	L48 (I), HI (I), PR (I), VI (I)
+URPA	 Urochloa panicoides P. Beauv.	liverseed grass	NW	L48 (I)
+ 
+
+†Code	Weed Status
+NW	Noxious weed
+Q	Quarantine
+
+*Code	Native Status
+I	Introduced
+N	Native
+W	Waif
+
+*Code	Native Location
+L48	Lower 48 States
+US15	Hawaii
+US72	Puerto Rico
+US78	Virgin Islands
+CA	Canada
+1 Mediterranean clone  
+2 other than native or widely distributed species  
+Additional Federal government efforts to understand and control noxious plants can be found at:
+
+APHIS Federal Noxious Weed List
+APHIS Web: Noxious Weeds Factsheets and Publications
+APHIS-NAPIS Pest Tracker
+Aquatic Nuisance Species Task Force
+Army Corps Noxious & Nuisance Plant Management Information System
+ARS: Exotic & Invasive Weed Research
+BLM: The Weed Hall of Shame
+Defense Environmental Network and Information Exchange (DENIX)
+Executive Order: Federal Effort to Combat Invasive Species (1999)
+Federal Highway Administration
+FHWA Guidance on Invasive Species
+FHWA-The Nature of Roadsides and the Tools to Work With It
+Great Lakes Indian Fish and Wildlife Commission-Exotic Plants
+Hawaiian Ecosystems at Risk (HEAR) Project
+Invasive Plants Fact Book (FICMNEW)
+InvasiveSpeciesInfo.Gov
+MT-USDA NRCS Management and Ecology of Invasive Plant Species
+NAPPO Phytosanitary Alert System
+National Agricultural Pest Information System (NAPIS)
+Nonnative Invasive Plants of Southern Forests: Identification Guide
+NPCI Alien Plant Working Group
+NPS Invasive Species Management and Control
+Plant Conservation Alliance Alien Plants
+PLANTS Database Home Page
+US National Plant Board
+USDA APHIS Federal Noxious Weed Disseminules of the U.S.
+USDA ARS Invasive Plant Research Laboratory-Florida
+USDA FS Invasive Plants-Northeastern Area
+USDA FS Invasive Plants-Northeastern Area Weeds of the Week
+USDI GS-Southwest Exotic Plant Information Clearinghouse
+USDI NPS Plant Invaders of Mid-Atlantic Natural Areas
+USDI NPS-Priority Weed Species
+USFS Weed Wanted Posters
+USFWS Invasive Species Program
+Western Rangeland Weeds
+ 
+
+ 
+Time Generated: 05/19/2009 08:08 AM MDT	 
+	PLANTS Home | USDA.gov | NRCS | Site Map | Policies and Links 
+Accessibility Statement | Privacy Policy | Non-Discrimination Statement	

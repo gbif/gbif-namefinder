@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.gbif.namefinder</groupId>
+    <artifactId>namefinder-motherpom</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>namefinder-lucene</artifactId>
+
+  <name>Namefinder Lucene</name>
+  <description>Lucene analyzer and utilities for the GBIF Namefinder</description>
+
+  <build>
+    <defaultGoal>test</defaultGoal>
+  </build>
+
+  <repositories>
+    <repository>
+      <id>gbif-all</id>
+      <url>http://repository.gbif.org/content/groups/gbif</url>
+    </repository>
+  </repositories>
+
+  <dependencies>
+    <!-- GBIF -->
+    <dependency>
+      <groupId>org.gbif</groupId>
+      <artifactId>gbif-api</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.gbif</groupId>
+      <artifactId>gbif-common</artifactId>
+    </dependency>
+
+    <!-- lucene & Co. -->
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-analyzers-common</artifactId>
+    </dependency>
+
+    <!-- Other -->
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <scope>test</scope>
+    </dependency>
+
+    <!-- Test -->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+    </dependency>
+  </dependencies>
+
+</project>
