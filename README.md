@@ -1,35 +1,16 @@
-ChecklistBank
--------------
+GBIF Name Finder
+--------------------------
 
-A multi module project containing all ChecklistBank  modules needed, from api to webservice client.
-Integration tests are part of the respective modules, in particular in the webservice client and the mybatis modules.
+This is a name finder implementation based on lucene working with dictionaries of known name parts.
 
-The individual modules refer to each other via relative paths and share common test resources (see below).
-Therefore the entire project needs to be checked out and modules on their own are likely to be broken!
+It contains the lucene module and a webservice module with a single servlet that exposes the name finder
+according to the [Name Finding API](https://code.google.com/p/taxon-name-processing/wiki/NameFindingAPI).
 
-Checklistbank relies on postgres with and uses the HStore.  The simplest way of enabling this is to add it to the
-postgres template database, which is used whenever postgres creates a new one.  Thus if you run the following (or similar)
-before creating the database, you are all set:
-  $ psql -u postgres template1 -c 'create extension hstore;'
-
-To run all tests you need a profile in your ~/.m2/settings.xml file with the following properties defined:
-
-  * checklistbank.db.url
-  * checklistbank.db.username
-  * checklistbank.db.password
-
-An example profile could look like this:
-
-  <profile>
-    <id>checklistbank-local-postgres</id>
-    <properties>
-      <checklistbank.db.url>jdbc:postgresql://localhost/checklistbank</checklistbank.db.url>
-      <checklistbank.db.username>checklistbank</checklistbank.db.username>
-      <checklistbank.db.password>checklistbank</checklistbank.db.password>
-    </properties>
-  </profile>
+See also:
+ - https://code.google.com/p/taxon-name-processing/wiki/nameRecognition
 
 
-*** Shared Test Resources
-For all tests in all modules the mybatis module contains the sole liquibase and dbunit test resources,
-while the index-builder maintains the canned solr index and configurations for integration tests.
+To start up the webservice on port 8080 you simply run mvn from the namefinder-ws module directory. The name dictionaries
+loaded by default from the classpath are taken from the Catalog of Life 2010.
+
+For the future make the dictionaries and port configurable...
