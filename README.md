@@ -3,12 +3,12 @@ GBIF Name Finder
 
 This is a [Name Finding API](https://code.google.com/p/taxon-name-processing/wiki/NameFindingAPI) implementation based on lucene working with file based dictionaries of known name parts.
 A name finder implementation detects scientific organism names in plain text and reports the name together with the location within the full text.
-For example the [bioline source document](https://github.com/gbif/gbif-namefinder/blob/master/namefinder-lucene/src/test/resources/sources/bioline/document.txt) contains these scientific names, mostly with an abbreviated genus: https://github.com/gbif/gbif-namefinder/blob/master/namefinder-lucene/src/test/resources/sources/bioline/expected.txt
+For example the [bioline source document](https://github.com/gbif/gbif-namefinder/blob/master/namefinder-lucene/src/test/resources/sources/bioline/document.txt) contains these [scientific names](https://github.com/gbif/gbif-namefinder/blob/master/namefinder-lucene/src/test/resources/sources/bioline/expected.txt), mostly with an abbreviated genus.
 
 Development on the project has been stalled and it is currently not in use by GBIF!
 
 See also:
- - https://github.com/gbif/pubindex: a project that indexes scientific names in journal articles using the name finder API
+ - [PubIndex](https://github.com/gbif/pubindex): a project that indexes scientific names in journal articles using the name finder API
  - https://code.google.com/p/taxon-name-processing/wiki/nameRecognition
 
 
